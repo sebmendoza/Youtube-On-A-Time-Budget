@@ -1,4 +1,4 @@
-# Youtube-On-A-Finals-Time-Budget
+# Youtube On A Finals Time Budget
 An Arc Boost made for Take Back Your Internet! Made especially for students who should be a little more cautious when they take a *little* snack break during finals season.
 
 Here's a video of a demo
