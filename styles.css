@@ -1,0 +1,29 @@
+/*  */
+.cautionSign {
+  position: fixed;
+  right: 0;
+  top: 1%;
+  z-index: 9999999;
+  max-width: 200px;
+  background-color: var(--arc-palette-foregroundSecondary) !important;
+  color: var(--arc-palette-title) !important;
+  font-family: "Chalkboard", sans-serif !important;
+  font-size: x-large;
+  font-weight: bold;
+  text-align: center;
+
+  padding: 4rem;
+  border-radius: 1rem;
+  transform: translateX(150%);
+  transition: transform 750ms ease-in-out;
+  border: var(--arc-palette-background) 2px solid;
+}
+
+.cautionSignShow {
+  transform: translateX(0%);
+  /* animation: popout 4s ease-in-out */
+}
+
+.hide {
+  display: none;
+}
